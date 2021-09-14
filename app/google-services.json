@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376920216468",
+    "project_id": "chat-app-44699",
+    "storage_bucket": "chat-app-44699.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376920216468:android:086eceab94c33053e0f581",
+        "android_client_info": {
+          "package_name": "com.revok.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376920216468-occ0ngvjm6ccl1q3atkj0gkio0qmogng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0APnoA3-A4KE94ngsExN5m4Tzl6Ph3Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376920216468-occ0ngvjm6ccl1q3atkj0gkio0qmogng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
